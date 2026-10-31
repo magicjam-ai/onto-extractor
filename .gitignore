@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OntoExtract local document inputs and generated runs
+.DS_Store
+inputs/
+output/
+old-output/
+runs/
